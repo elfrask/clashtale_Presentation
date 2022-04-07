@@ -1,0 +1,21 @@
+{
+    "name": "amalgama",
+    "title": "Amalgama",
+    "arena": 6,
+    "info": "un ser deforme sin alguna forma fisica exacta- pero un luchador es un luchador!",
+    "joke": "esto me recuerda a mi ex",
+    "tipo": 2,
+    "price": 6,
+    "level": 12,
+    "props": {
+        "life": 560,
+        "atk": 210,
+        "tower_atk": 110,
+        "obj": 0,
+        "time_atk": 2.8,
+        "tipo": 0,
+        "fast": 3,
+        "range": 1.6,
+        "distance": 5.0
+    }
+}

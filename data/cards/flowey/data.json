@@ -1,0 +1,18 @@
+{
+    "title":"Flowey",
+    "arena":1,
+    "info":"Lanzar petalos a distancia a tropas tanto aereas como terrestres",
+    "joke":"Este csm hecha tiro a ratas y pajaros y apenas le atina al suelo",
+    "props":{
+        "life":350,
+        "atk":54,
+        "distance":7,
+        "obj":2,
+        "fast":3,
+        "time_atk":2.1,
+        "tipo":0
+    },
+    "tipo":0,
+    "price":3,
+    "level":14
+}

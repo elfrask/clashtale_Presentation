@@ -1,0 +1,21 @@
+{
+    "name": "Astigmastism",
+    "title": "Astigmastism",
+    "arena": 7,
+    "info": "Puede atacarte con un lacer que sobresale de su nervio optico y progresivamente aumenta su da\u00f1o",
+    "joke": "Salto sobre mi y me disparo con su rasho lasser!!!",
+    "tipo": 0,
+    "price": 4,
+    "level": 12,
+    "props": {
+        "life": 840,
+        "atk": 100,
+        "tower_atk": 450,
+        "especial_atk": 1100,
+        "obj": 2,
+        "time_atk": 0.1,
+        "tipo": 1,
+        "fast": 2,
+        "distance": 3.0
+    }
+}

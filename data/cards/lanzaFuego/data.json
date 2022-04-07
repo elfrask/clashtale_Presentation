@@ -1,0 +1,20 @@
+{
+    "name": "lanzaFuego",
+    "title": "Lanza fuego",
+    "arena": 5,
+    "info": "Lanza fuego y carboniza a tus tropas enemigas",
+    "joke": "eso te deja mas caliente que un carro bajo el sol en verano",
+    "tipo": 3,
+    "price": 5,
+    "level": 11,
+    "props": {
+        "life": 1100,
+        "atk": 240,
+        "obj": 2,
+        "time_atk": 4.6,
+        "tipo": 3,
+        "range": 2.1,
+        "distance": 5.0,
+        "time_life": 50.0
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "name": "aguamachine",
+    "title": "Lanza Chorros",
+    "arena": 4,
+    "info": "Lanza chorro de agua caliente a las tropas (mas critico para tropas de nieve, fuego y electrico)",
+    "joke": "esto no es una ducha, esa agua esta mas caliente que maria cuando esta a 5km",
+    "tipo": 1,
+    "price": 4,
+    "level": 13,
+    "props": {
+        "life": 1200,
+        "atk": 120,
+        "especial_atk": 450,
+        "obj": 2,
+        "time_atk": 5.0,
+        "tipo": 3,
+        "range": 2.1,
+        "distance": 7.0,
+        "time_life": 70.0
+    }
+}

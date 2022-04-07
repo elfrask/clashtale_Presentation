@@ -1,0 +1,19 @@
+{
+    "name": "vegetoid",
+    "title": "Vegetoid",
+    "arena": 2,
+    "info": "Dale de comer sus vegetales a todo el que vea por ahi, \u00a1Esto parece un buen negocio!",
+    "joke": "si alguna vez te sientes pendejo solo recuerda a este wey que mino en minecraft usando zanahorias",
+    "tipo": 1,
+    "price": 4,
+    "level": 13,
+    "props": {
+        "life": 1340,
+        "atk": 60,
+        "obj": 2,
+        "time_atk": 1.2,
+        "tipo": 3,
+        "distance": 7.0,
+        "time_life": 45.0
+    }
+}

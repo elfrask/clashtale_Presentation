@@ -1,0 +1,21 @@
+{
+    "name": "pyrope",
+    "title": "Pyrope",
+    "arena": 5,
+    "info": "Cono ardiente, los roles cambian",
+    "joke": "como quemarce la lengua:",
+    "tipo": 0,
+    "price": 3,
+    "level": 14,
+    "props": {
+        "life": 340,
+        "atk": 190,
+        "tower_atk": 100,
+        "obj": 2,
+        "time_atk": 2.1,
+        "tipo": 0,
+        "fast": 3,
+        "range": 1.8,
+        "distance": 7.0
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Girasoles",
+    "title": "Tropa de Girasoles",
+    "arena": 1,
+    "info": "despliega una tropa de girasoles veganos para que entren en el campo de batalla y ataque tropas aereas y terrestres",
+    "joke": "El brayan, El kevin y El david listos para realizar bandalismo en tu casa",
+    "tipo": 0,
+    "price": 2,
+    "level": 14,
+    "props": {
+        "life": 180,
+        "tower_atk":29,
+        "atk": 36,
+        "obj": 2,
+        "time_atk": 2.1,
+        "fast":3,
+        "tipo": 0,
+        "distance": 7.0,
+        "stun": 0.0,
+        "cant": 3
+    }
+}

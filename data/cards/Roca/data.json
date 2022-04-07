@@ -1,0 +1,18 @@
+{
+    "name": "Roca",
+    "title": "Roca",
+    "arena": 1,
+    "info": "Tira una roca gigante a una parte de la arena para atacar o defender a tus torres",
+    "joke": "si rompes un vidreo di que fue tu hermanit@",
+    "tipo": 1,
+    "price": 4,
+    "level": 14,
+    "props": {
+
+        "tipo": 2,
+        "atk":780,
+        "tower_atk":230,
+        "obj":2,
+        "range":2.1
+    }
+}

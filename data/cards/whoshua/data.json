@@ -1,0 +1,23 @@
+{
+    "name": "whoshua",
+    "title": "Whoshua",
+    "arena": 4,
+    "info": "Lanza chorros de agua caliente a las tropas y hace un rango de da\u00f1o grande critico para tropas del tipo nieve, fuego y electrico",
+    "joke": "un ba\u00f1ito de agua para sancocharce con este tio",
+    "tipo": 1,
+    "price": 4,
+    "level": 13,
+    "props": {
+        "life": 340,
+        "atk": 120,
+        "tower_atk": 90,
+        "especial_atk": 460,
+        "obj": 2,
+        "fast":3,
+        "time_atk": 3.4,
+        "tipo": 0,
+        "range": 2.1,
+        "distance": 5.0,
+        "stun": 0.7
+    }
+}

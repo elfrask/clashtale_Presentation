@@ -1,0 +1,19 @@
+{
+    "name": "golem",
+    "title": "Golem de piedra",
+    "arena": 7,
+    "info": "Un colem de piedra. puede que sea resistente pero es muy lento",
+    "joke": "le pesa el culo y por eso es que camina tan lento",
+    "tipo": 2,
+    "price": 7,
+    "level": 12,
+    "props": {
+        "life": 4600,
+        "atk": 230,
+        "obj": 3,
+        "time_atk": 2.1,
+        "tipo": 0,
+        "fast": 1,
+        "distance": 0.0
+    }
+}

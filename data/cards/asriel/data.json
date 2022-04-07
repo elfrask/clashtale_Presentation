@@ -1,0 +1,22 @@
+{
+    "name": "asriel",
+    "title": "Asriel",
+    "arena": 10,
+    "info": "Lanza destellos a las tropas enemigas aturdiendolos sin parar",
+    "joke": "mucho rule34 de cabras antropomorficas ._.xD",
+    "tipo": 3,
+    "price": 3,
+    "level": 11,
+    "props": {
+        "life": 250,
+        "atk": 30,
+        "tower_atk": 25,
+        "obj": 2,
+        "time_atk": 2.5,
+        "tipo": 0,
+        "fast": 2,
+        "range": 3.4,
+        "distance": 5.0,
+        "stun": 4.0
+    }
+}

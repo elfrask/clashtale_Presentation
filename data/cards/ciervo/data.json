@@ -1,0 +1,20 @@
+{
+    "name": "ciervo",
+    "title": "Monta ciervos",
+    "arena": 3,
+    "info": "galopa hasta la torre haciendo un da\u00f1o por inercia bastante alto",
+    "joke": "ese ciervo tiene menos cuernos que el que esta leyendo esto",
+    "tipo": 1,
+    "price": 4,
+    "level": 13,
+    "props": {
+        "life": 450,
+        "atk": 150,
+        "obj": 3,
+        "time_atk": 2.2,
+        "fast":5,
+        "tipo": 0,
+        "distance": 0.0,
+        "especial_atk":460
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "name": "whimsuns",
+    "title": "Whimsuns",
+    "arena": 2,
+    "info": "Lanza tropas desde los aires preparadas para atacar las defensas del enemigo",
+    "joke": "una vez habia un whimsuns que se llamaba pegamento, una vez se cayo y se pego",
+    "tipo": 0,
+    "price": 3,
+    "level": 14,
+    "props": {
+        "life": 160,
+        "tower_atk":32,
+        "atk": 45,
+        "obj": 2,
+        "fast":3,
+        "time_atk": 2.0,
+        "tipo": 1,
+        "distance": 2.0,
+        "cant": 3
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "name": "moldsmal",
+    "title": "Moldsmal",
+    "arena": 2,
+    "info": "Esta carta se queda quieta pero atrae a los enemigos para atrapar a los que son mas idefensos en su masa hecha de una sustancia no agradable",
+    "joke": "el wey salio del desagüe, siendo tu yo ni me acerco",
+    "tipo": 1,
+    "price": 2,
+    "level": 13,
+    "props": {
+        "life": 1890,
+        "atk": 23,
+        "obj": 0,
+        "time_atk": 1.2,
+        "tipo": 0,
+        "distance": 0.0,
+        "time_life": 63.0,
+        "stun": 0.6
+    }
+}

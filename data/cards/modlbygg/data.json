@@ -1,0 +1,20 @@
+{
+    "name": "modlbygg",
+    "title": "Modlbygg",
+    "arena": 4,
+    "info": "Un monstruo que actua de torre y defiende tanto tierra como aire y atrapa a las peque\u00f1as tropas con su masa babosa",
+    "joke": "si fuera tu agarro el primer avion que vea y me voy a china",
+    "tipo": 2,
+    "price": 4,
+    "level": 12,
+    "props": {
+        "life": 670,
+        "atk": 120,
+        "especial_atk": 13,
+        "obj": 2,
+        "time_atk": 2.1,
+        "tipo": 3,
+        "distance": 5.0,
+        "time_life": 60.0
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "name": "alma_gen",
+    "title": "Generador de almas",
+    "arena": 10,
+    "info": "genera almas mas rapido",
+    "joke": "extractor de elixir version undertale",
+    "tipo": 1,
+    "price": 6,
+    "level": 13,
+    "props": {
+        "life": 1000,
+        "obj": 3,
+        "time_atk": 6.2,
+        "tipo": 3,
+        "time_life": 80.0
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "name": "napstablook",
+    "title": "Napstablook",
+    "arena": 2,
+    "info": "toma el control por una fraccion de tiempo de tus enemigos para usarlos a tu favor",
+    "joke": "*Procede a poner musica sad de morrito de 13 años con deficit de atencion*",
+    "tipo": 2,
+    "price": 2,
+    "level": 12,
+    "props": {
+        "life": 210,
+        "obj": 0,
+        "tipo": 0,
+        "fast":3,
+        "distance": 2.0,
+        "time_life": 10.0,
+        "stun": 10.0
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "name": "mosquetera",
+    "title": "Mosquetera",
+    "arena": 9,
+    "info": "equipa una escopeta para hacer ataques de distancia media",
+    "joke": "es el recolor mas cutre que he hecho",
+    "tipo": 0,
+    "price": 4,
+    "level": 14,
+    "props": {
+        "life": 450,
+        "atk": 210,
+        "tower_atk": 190,
+        "obj": 2,
+        "time_atk": 1.6,
+        "tipo": 0,
+        "fast": 2,
+        "distance": 6.0
+    }
+}

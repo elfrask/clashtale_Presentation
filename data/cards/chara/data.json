@@ -1,0 +1,21 @@
+{
+    "name": "chara",
+    "title": "Chara",
+    "arena": 10,
+    "info": "esta con su cuchillo corre hacia las tropas enemigas y da un inpulso para destruir mas rapido sus enemigos",
+    "joke": "el rule 34 que hay de este personaje es realmente exageraqdo....",
+    "tipo": 3,
+    "price": 4,
+    "level": 11,
+    "props": {
+        "life": 480,
+        "atk": 230,
+        "tower_atk": 120,
+        "especial_atk": 380,
+        "obj": 0,
+        "time_atk": 0.9,
+        "tipo": 0,
+        "fast": 4,
+        "distance": 0.0
+    }
+}

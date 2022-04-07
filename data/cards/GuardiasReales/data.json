@@ -1,0 +1,21 @@
+{
+    "name": "GuardiasReales",
+    "title": "Guardias Reales",
+    "arena": 9,
+    "info": "esqueletos armados por la realesa",
+    "joke": "venezolano de la guardia nacional",
+    "tipo": 2,
+    "price": 3,
+    "level": 12,
+    "props": {
+        "life": 560,
+        "atk": 210,
+        "tower_atk": 180,
+        "obj": 0,
+        "time_atk": 1.8,
+        "tipo": 0,
+        "fast": 4,
+        "distance": 0.0,
+        "cant": 3
+    }
+}

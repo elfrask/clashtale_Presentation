@@ -1,0 +1,19 @@
+{
+    "name": "lomito",
+    "title": "Lomito caballero",
+    "arena": 3,
+    "info": "haz hacer pasar un mal rato a tu contrincante con la mascota mas leal y fuerte que jamas existio",
+    "joke": "Dibujar nsfw de furros te hacen tener siempre el pan sobre la mesa",
+    "tipo": 2,
+    "price": 7,
+    "level": 12,
+    "props": {
+        "life": 2300,
+        "atk": 450,
+        "obj": 0,
+        "time_atk": 4.8,
+        "fast":1,
+        "tipo": 0,
+        "distance": 0.0
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "name": "chilldrake",
+    "title": "Chilldrake",
+    "arena": 7,
+    "info": "con su pico rompe cosas mas fuerte que el acero",
+    "joke": "Ahi llego el don comedias a matarnos de la risa",
+    "tipo": 2,
+    "price": 3,
+    "level": 12,
+    "props": {
+        "life": 340,
+        "atk": 650,
+        "tower_atk": 540,
+        "obj": 0,
+        "time_atk": 1.2,
+        "tipo": 0,
+        "fast": 4,
+        "distance": 0.0
+    }
+}

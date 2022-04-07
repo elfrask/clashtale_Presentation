@@ -1,0 +1,19 @@
+{
+    "name": "toriel",
+    "title": "Toriel",
+    "arena": 10,
+    "info": "puede curar las tropas",
+    "joke": "la milf del fandom",
+    "tipo": 3,
+    "price": 5,
+    "level": 11,
+    "props": {
+        "life": 450,
+        "obj": 2,
+        "time_atk": 2.1,
+        "tipo": 0,
+        "fast": 2,
+        "range": 3.0,
+        "distance": 7.0
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "name": "diacido",
+    "title": "Despensador de acido",
+    "arena": 6,
+    "info": "Tira acido a tus tropas, da\u00f1andolas gravemente",
+    "joke": "hecha agua verde",
+    "tipo": 3,
+    "price": 5,
+    "level": 11,
+    "props": {
+        "life": 980,
+        "atk": 340,
+        "obj": 2,
+        "time_atk": 3.5,
+        "tipo": 3,
+        "range": 1.5,
+        "time_life": 60.0
+    }
+}

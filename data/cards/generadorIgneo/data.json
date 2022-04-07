@@ -1,0 +1,18 @@
+{
+    "name": "generadorIgneo",
+    "title": "Generador de Fuego",
+    "arena": 5,
+    "info": "genera bolitas de fuego para despistar a las tropas del enemigo",
+    "joke": "Cocinemos unas rocas",
+    "tipo": 2,
+    "price": 4,
+    "level": 12,
+    "props": {
+        "life": 1350,
+        "obj": 2,
+        "time_atk": 5.6,
+        "tipo": 3,
+        "time_life": 60.0,
+        "cant": 24
+    }
+}

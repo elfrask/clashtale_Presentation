@@ -1,0 +1,19 @@
+{
+    "name": "canion",
+    "title": "Ca\u00f1on",
+    "arena": 4,
+    "info": "Pon un ca\u00f1on en arena que defienda tus torres y le de refuerzo a tus tropas",
+    "joke": "tira chinas version tampa\u00f1o de casa",
+    "tipo": 0,
+    "price": 3,
+    "level": 14,
+    "props": {
+        "life": 1200,
+        "atk": 210,
+        "obj": 0,
+        "time_atk": 2.1,
+        "tipo": 3,
+        "distance": 7.0,
+        "time_life": 60.0
+    }
+}

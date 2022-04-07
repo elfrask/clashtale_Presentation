@@ -1,0 +1,19 @@
+{
+    "name": "teslaTower",
+    "title": "Torre tesla",
+    "arena": 8,
+    "info": "Crea una torre que se oculta bajo tierra cuando no se usa y ataca a las tropas enemigas con la bobina tesla en la punta de este",
+    "joke": "ahi se va toda la factura de luz",
+    "tipo": 0,
+    "price": 4,
+    "level": 14,
+    "props": {
+        "life": 870,
+        "atk": 170,
+        "obj": 2,
+        "time_atk": 0.7,
+        "tipo": 3,
+        "distance": 7.0,
+        "time_life": 50.0
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "name": "froggits",
+    "title": "Froggits",
+    "arena": 2,
+    "info": "Envia a batalla un trio de froggits listo para batallar por el poder de la justicia",
+    "joke": "Envia a los castrosos a lamerle la suela a tu suegro",
+    "tipo": 0,
+    "price": 4,
+    "level": 14,
+    "props": {
+        "life": 320,
+        "atk": 56,
+        "obj": 0,
+        "time_atk": 2.3,
+        "fast":4,
+        "tipo": 0,
+        "distance": 0.0,
+        "cant": 3
+    }
+}

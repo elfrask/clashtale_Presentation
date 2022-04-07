@@ -1,0 +1,18 @@
+{
+    "name": "destello",
+    "title": "Destello",
+    "arena": 7,
+    "info": "Lanza una estrella que aturda a las tropas",
+    "joke": "lo dejaron virulo",
+    "tipo": 0,
+    "price": 2,
+    "level": 14,
+    "props": {
+        "atk": 23,
+        "tower_atk": 12,
+        "obj": 2,
+        "tipo": 2,
+        "range": 5.0,
+        "stun": 3.2
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "name": "jerry",
+    "title": "Jerry",
+    "arena": 3,
+    "info": "no hace mucho da\u00f1o en lo absoluto pero este tiene una resistencia bastante fuerte",
+    "joke": "AHHHH ESTE WEY ES MAS DURO QUE INTENTAR ROMPER UN HUEBO DESDE LOS POLOS",
+    "tipo": 0,
+    "price": 4,
+    "level": 14,
+    "props": {
+        "life": 3100,
+        "atk": 23,
+        "obj": 0,
+        "time_atk": 1.4,
+        "fast":1,
+        "tipo": 0,
+        "distance": 0.0
+    }
+}

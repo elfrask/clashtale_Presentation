@@ -1,0 +1,285 @@
+
+@font-face {
+    font-family: "clash";
+    src: url("/src/fonts/clash.ttf");
+}
+
+body {
+
+}
+
+* {
+    color: white;
+    margin: 0%;
+    padding: 0%;
+    font-family: "clash";
+}
+
+.bg {
+    background-image: url("/src/img/bg.jpg");
+    background-repeat: repeat;
+
+    
+
+    overflow: auto;
+    
+}
+
+._app {
+    width: 100%;
+    max-width: 450px;
+    height: 100%;
+}
+
+hr {
+    background: linear-gradient(90deg, rgba(2,0,36,0) 0%, rgb(251, 255, 0) 48%, rgba(9,121,110,0) 100%);
+    height: 5px;
+    border: none;
+}
+
+.center, .medio {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.text-center {
+    text-align: center;
+}
+.fill {
+    width: 100%;
+    height: 100%;
+}
+.over {
+    position: fixed;
+}
+.medioH, .centerH {
+    display: flex;
+    justify-content: center;
+    height: max-content;
+}
+
+.ws {
+    box-shadow: 0px 0px 10px white;
+}
+
+.refill {
+    width: 100%;
+    height: 100%;
+}
+
+.bgblack {
+    background-color: #00000088;
+}
+
+.dark { color: black;}
+
+.gui-wood {
+    width: 100%;
+    padding: 50px;
+    background-image: url("/src/img/wood.jpg");
+    background-repeat: repeat;
+    height: max-content;
+}
+
+.msg-space {
+    width: 100%;
+    height: max-content;
+    padding: 20px;
+}
+
+.msg-border {
+    width: calc(100% - 34px);
+    border: 3px groove rgb(20, 20, 73);
+    border-radius: 10px;
+    background-color: #32325e;
+    padding: 5px;
+    height: max-content;
+}
+.msg-up {
+    width: 100%;
+    height: 35px;
+    
+}
+.msg-close {
+    float: right;
+    margin-right: 10px;
+    
+    border: 3px groove rgb(97, 10, 10) ;
+    border-radius: 5px;
+    background-color: rgb(187, 0, 0);
+
+    width: 30px;
+    height: 30px;
+    font-size: 15px;
+
+    cursor: pointer;
+}
+
+.msg-cont {
+    border: none;
+    background-color: antiquewhite;
+    color: black;
+    width: 100%;
+    height: max-content;
+    border-radius: 10px;
+    padding: 20px;
+    font-size: 14;
+}
+
+.no-padding {
+    padding: 0px;
+}
+
+.card-table {
+    width: 100%;
+    height: max-content;
+}
+.table-e {
+    width: 100%;
+    height: 50px;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-bottom-color: black;
+}
+
+.img {
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+}
+.table-img {
+    float: left;
+    width: 50px;
+    height: 50px;
+    background-color: rgb(223, 194, 156);
+    background-size: 80%;
+    image-rendering: pixelated;
+}
+.table-value {
+    float: left;
+    background-color: rgb(255 208 146);
+    color: black;
+    width: calc(100% - 50px);
+    height: 50px;
+}
+
+.table-title, .table-valor {
+    color: black;
+    padding-left: 10px;
+    width: 100%;
+    height: 25px;
+    font-size: 12px;
+    display: flex;
+}
+
+.table-valor {
+    color: rgb(131, 104, 68);
+}
+
+.table-title {
+    font-size: 10px;
+    align-items: center;
+}
+
+.show-card-cont {
+    width: 100%;
+    height: max-content;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    display: flex;
+}
+
+.show-card {
+    width: 150px;
+    height: 200px;
+    float: left;
+}
+
+.show-card-info {
+    width: calc(100% - 150px);
+    height: max-content;
+    float: left;
+}
+
+.msg-sep2-cal-box {
+    height: max-content;
+    width: 100%;
+}
+.msg-sep2 {
+    height: 100%;
+    width: 100%;
+}
+
+
+
+.msg-dato-box {
+    width: 90%;
+    height: 70px;
+    overflow: hidden;
+    border-radius: 15px;
+}
+.msg-dato {
+    width: 100%;
+    height: 50%;
+    font-size: 10px;
+}
+.msg-dato-gui {
+    background-color: #26272a;
+}
+
+.box-dato-black {background-color: #3e4450}
+
+.small-text {
+    font-size: 12px;
+}
+
+.vspace {
+    padding: 30px;
+}
+
+.box-text {
+    width: calc(100% - 30px);
+}
+
+.title {
+    background-image: url("/src/img/liston.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 50px;
+    color: gold;
+    font-size: 25px;
+    padding-top: 0px;
+    padding-bottom: 30px;
+}
+
+.box {
+    width: 100%;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.ord_elements, .ord_e {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.overflow-none {
+    overflow: hidden;
+}
+
+.box-tipo-comun {background-color: #0e1b34}
+.box-tipo-especial {background-color: #ee8523e8}
+.box-tipo-epica {background-color: #a62da4bc}
+.box-tipo-legendaria {background-color: #038fa5}
+.box-tipo-campeon {background-color: gold}
+
+.text-tipo-comun {color: #fff}
+.text-tipo-especial {color: #f8e5a6}
+.text-tipo-epica {color: #fd89cf}
+.text-tipo-legendaria {color: #89cffd}
+.text-tipo-campeon {color: rgb(122, 104, 0)}

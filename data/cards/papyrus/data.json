@@ -1,0 +1,20 @@
+{
+    "name": "papyrus",
+    "title": "Papyrus",
+    "arena": 3,
+    "info":"lleva a tu esqueleto favorito al campo de batalla y ve como va eliminando tropas!",
+    "joke": "este hdpcsm viejo cachondo coge como toro sin usar pastillas, quieres saber como? has click aqui >Click aqui<",
+    "tipo": 2,
+    "price": 6,
+    "level": 12,
+    "props": {
+        "life": 1330,
+        "tower_atk":110,
+        "atk": 230,
+        "obj": 0,
+        "fast":3,
+        "time_atk": 2.1,
+        "tipo": 0,
+        "distance": 5.0
+    }
+}

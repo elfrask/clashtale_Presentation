@@ -1,0 +1,22 @@
+{
+    "name": "muffent",
+    "title": "Muffet",
+    "arena": 7,
+    "info": "atrapa a las tropas con sus tela ara\u00f1as pero hace muy poco da\u00f1o",
+    "joke": "ya los aracnofobicos al verla ya no le tienen tanto miedo",
+    "tipo": 3,
+    "price": 3,
+    "level": 11,
+    "props": {
+        "life": 450,
+        "atk": 63,
+        "tower_atk": 36,
+        "obj": 2,
+        "time_atk": 2.1,
+        "tipo": 0,
+        "fast": 2,
+        "range": 2.1,
+        "distance": 7.0,
+        "stun": 3.1
+    }
+}

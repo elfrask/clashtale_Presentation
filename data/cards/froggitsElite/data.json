@@ -1,0 +1,21 @@
+{
+    "name": "froggitsElite",
+    "title": "Froggits de elite",
+    "arena": 7,
+    "info": "una tropa de froggits mas fuertes y con una mayor proteccion",
+    "joke": "un froggit dijo una vez encendio la tele y vio una serie que le dejo una frase \"se lo que quieras ser\" y decidio ser whimsun",
+    "tipo": 0,
+    "price": 6,
+    "level": 14,
+    "props": {
+        "life": 1100,
+        "atk": 350,
+        "tower_atk": 230,
+        "obj": 0,
+        "time_atk": 2.2,
+        "tipo": 0,
+        "fast": 2,
+        "distance": 0.0,
+        "cant": 2
+    }
+}

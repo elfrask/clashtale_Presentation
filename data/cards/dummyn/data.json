@@ -1,0 +1,18 @@
+{
+    "name": "dummyn",
+    "title": "Mad Dummyn",
+    "arena": 4,
+    "info": "Un fantasma muy gru\u00f1on que puede poseer a las tropas enemigas y usarlas a tu voluntad",
+    "joke": "este wey da mas miedo que los muppets",
+    "tipo": 3,
+    "price": 5,
+    "level": 11,
+    "props": {
+        "life": 150,
+        "atk": 20,
+        "obj": 2,
+        "tipo": 2,
+        "fast": 3,
+        "distance": 3.0
+    }
+}

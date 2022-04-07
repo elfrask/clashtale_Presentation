@@ -1,0 +1,21 @@
+{
+    "name": "sans",
+    "title": "Sans",
+    "arena": 10,
+    "info": "solo tiene un punto de vida pero hace ataques muy fuerte desde lejos",
+    "joke": "Todo undertale se reduce a el.",
+    "tipo": 3,
+    "price": 3,
+    "level": 11,
+    "props": {
+        "life": 1,
+        "atk": 210,
+        "tower_atk": 180,
+        "obj": 2,
+        "time_atk": 2.5,
+        "tipo": 0,
+        "fast": 2,
+        "range": 3.0,
+        "distance": 10.0
+    }
+}

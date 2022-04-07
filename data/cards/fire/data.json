@@ -1,0 +1,22 @@
+{
+    "name": "fire",
+    "title": "Rocas igneas",
+    "arena": 5,
+    "info": "Lanza unas piedras andientes para protegerte de varias tropas",
+    "joke": "lo mismo pero mas barato XD",
+    "tipo": 0,
+    "price": 1,
+    "level": 14,
+    "props": {
+        "life": 120,
+        "atk": 140,
+        "tower_atk": 90,
+        "obj": 2,
+        "time_atk": 0.3,
+        "tipo": 0,
+        "fast": 4,
+        "range": 1.4,
+        "distance": 3.0,
+        "cant": 3
+    }
+}

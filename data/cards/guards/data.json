@@ -1,0 +1,21 @@
+{
+    "name": "guards",
+    "title": "Guardianes Royal",
+    "arena": 5,
+    "info": "un par de guardianes bastante fuertes",
+    "joke": "UNO SE LA JALA AL OTRO!",
+    "tipo": 2,
+    "price": 5,
+    "level": 12,
+    "props": {
+        "life": 600,
+        "atk": 340,
+        "tower_atk": 220,
+        "obj": 0,
+        "time_atk": 4.5,
+        "tipo": 0,
+        "fast": 3,
+        "distance": 0.0,
+        "cant": 2
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "name": "vulkin",
+    "title": "Vulkin",
+    "arena": 5,
+    "info": "lleva un volcan andante hasta tu destino",
+    "joke": "yo lo agarraria y lo usaria como metralleta cada que erupciona",
+    "tipo": 1,
+    "price": 4,
+    "level": 13,
+    "props": {
+        "life": 340,
+        "atk": 230,
+        "tower_atk": 120,
+        "obj": 2,
+        "time_atk": 4.5,
+        "tipo": 0,
+        "fast": 2,
+        "range": 2.1,
+        "distance": 5.0
+    }
+}

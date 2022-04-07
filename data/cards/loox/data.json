@@ -1,0 +1,19 @@
+{
+    "name": "loox",
+    "title": "Loox",
+    "arena": 2,
+    "info": "Una tropa bastante fuerte y mut resistente pero que hay muchas tropas que le hacen contra",
+    "joke": "Este csm le enseño al bullying de tu escuela como joderte la vida con solo ir a clases",
+    "tipo": 1,
+    "price": 5,
+    "level": 13,
+    "props": {
+        "life": 640,
+        "atk": 240,
+        "obj": 0,
+        "time_atk": 4.1,
+        "fast":5,
+        "tipo": 0,
+        "distance": 0.0
+    }
+}

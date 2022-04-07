@@ -1,0 +1,19 @@
+{
+    "name": "GolemHierro",
+    "title": "Golem de hierro",
+    "arena": 8,
+    "info": "se dirige a las torres y es el que tiene mas resistencia de todos",
+    "joke": "importado del pais de notch",
+    "tipo": 3,
+    "price": 9,
+    "level": 11,
+    "props": {
+        "life": 5600,
+        "atk": 340,
+        "obj": 0,
+        "time_atk": 3.4,
+        "tipo": 0,
+        "fast": 1,
+        "distance": 0.0
+    }
+}

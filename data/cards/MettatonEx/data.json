@@ -1,0 +1,22 @@
+{
+    "name": "MettatonEx",
+    "title": "Mettaton Ex",
+    "arena": 8,
+    "info": "el predecesor del mettaton de la tv es aun mas fuerte y mas preparado para el campo de batalla",
+    "joke": "Hace tiktoks haciendo bailes mientras el resto de personas lo miran raro",
+    "tipo": 2,
+    "price": 6,
+    "level": 12,
+    "props": {
+        "life": 1100,
+        "atk": 230,
+        "tower_atk": 180,
+        "especial_atk": 150,
+        "obj": 2,
+        "time_atk": 2.2,
+        "tipo": 0,
+        "fast": 3,
+        "distance": 7.0,
+        "stun": 1.3
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "name": "snowball_tropas",
+    "title": "Ejercito de bolitas de nieve",
+    "arena": 3,
+    "info": "envia un ejercito de bolitas de nieves que uno solo no hace mucho pero muchos juntos hacen bastante",
+    "joke": "si vemos flores que hablan, cabras que usan magia, esqueletos vivientes y mas, dudo que algo asi sea raro",
+    "tipo": 2,
+    "price": 3,
+    "level": 12,
+    "props": {
+        "life": 80,
+        "atk": 50,
+        "tower_atk": 32,
+        "obj": 0,
+        "fast":4,
+        "time_atk": 1.2,
+        "tipo": 0,
+        "distance": 0.0,
+        "cant": 15
+    }
+}

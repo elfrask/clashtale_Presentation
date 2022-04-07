@@ -1,0 +1,20 @@
+{
+    "name": "TorreInfernal",
+    "title": "Torre lacer",
+    "arena": 8,
+    "info": "elimina a las tropas con un lacer que carboniza a las mismas",
+    "joke": "una maquina para hacer una carnita asada nunca esta de mas",
+    "tipo": 2,
+    "price": 5,
+    "level": 12,
+    "props": {
+        "life": 780,
+        "atk": 100,
+        "especial_atk": 1000,
+        "obj": 2,
+        "time_atk": 0.1,
+        "tipo": 3,
+        "distance": 7.0,
+        "time_life": 60.0
+    }
+}

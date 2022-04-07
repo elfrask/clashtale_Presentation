@@ -1,0 +1,21 @@
+{
+    "name": "undyne",
+    "title": "Undyne",
+    "arena": 4,
+    "info": "la lider de la guardia real esta aqui!",
+    "joke": "Huele a pescado frito",
+    "tipo": 2,
+    "price": 6,
+    "level": 12,
+    "props": {
+        "life": 1300,
+        "atk": 210,
+        "tower_atk": 190,
+        "especial_atk": 320,
+        "obj": 2,
+        "time_atk": 2.2,
+        "tipo": 0,
+        "fast": 3,
+        "distance": 7.0
+    }
+}

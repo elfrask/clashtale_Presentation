@@ -1,0 +1,20 @@
+{
+    "name": "icecap",
+    "title": "Ice Cap",
+    "arena": 3,
+    "info": "Lanza picos de hielo desde los cielos!",
+    "joke": "tetillas de hielo $$$",
+    "tipo": 0,
+    "price": 3,
+    "level": 14,
+    "props": {
+        "life": 560,
+        "atk": 140,
+        "tower_atk":110,
+        "obj": 0,
+        "time_atk": 1.3,
+        "fats":2,
+        "tipo": 0,
+        "distance": 0.0
+    }
+}

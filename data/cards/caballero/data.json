@@ -1,0 +1,20 @@
+{
+    "name": "caballero",
+    "title": "Caballero",
+    "arena": 9,
+    "info": "defiende usando esta tropa de tanque",
+    "joke": "tiene la espada muy grande xD",
+    "tipo": 0,
+    "price": 2,
+    "level": 14,
+    "props": {
+        "life": 500,
+        "atk": 140,
+        "tower_atk": 110,
+        "obj": 0,
+        "time_atk": 2.1,
+        "tipo": 0,
+        "fast": 2,
+        "distance": 0.0
+    }
+}

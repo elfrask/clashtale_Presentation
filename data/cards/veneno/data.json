@@ -1,0 +1,19 @@
+{
+    "name": "veneno",
+    "title": "Veneno",
+    "arena": 6,
+    "info": "envenena a las tropas enemigas y progresivamente quitales vida",
+    "joke": "si te tomas esto veras una luz al final, pero ojo! este truco solo funciona una vez",
+    "tipo": 0,
+    "price": 2,
+    "level": 14,
+    "props": {
+        "atk": 78,
+        "tower_atk": 23,
+        "obj": 2,
+        "time_atk": 1.0,
+        "tipo": 2,
+        "range": 6.5,
+        "time_life": 7.8
+    }
+}

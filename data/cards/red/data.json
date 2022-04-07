@@ -1,0 +1,21 @@
+{
+    "name": "red",
+    "title": "Red",
+    "arena": 9,
+    "info": "Red de redtale vino para cortarte con su espada",
+    "joke": "solo se amable y usa proteccion",
+    "tipo": 2,
+    "price": 4,
+    "level": 12,
+    "props": {
+        "life": 480,
+        "atk": 200,
+        "tower_atk": 160,
+        "obj": 0,
+        "time_atk": 1.2,
+        "tipo": 0,
+        "fast": 2,
+        "range": 1.2,
+        "distance": 0.0
+    }
+}

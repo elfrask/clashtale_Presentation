@@ -1,0 +1,18 @@
+{
+    "name": "fireball",
+    "title": "Bola de fuego",
+    "arena": 5,
+    "info": "Lanza una bola de fuego a cualquier parte de la arena para defender a tus tropas",
+    "joke": "hot moment sugar mommy",
+    "tipo": 1,
+    "price": 4,
+    "level": 13,
+    "props": {
+        "atk": 680,
+        "tower_atk": 340,
+        "obj": 2,
+        "tipo": 2,
+        "stun": 0.3,
+        "range":2.1
+    }
+}

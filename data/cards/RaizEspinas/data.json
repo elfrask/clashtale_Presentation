@@ -1,0 +1,19 @@
+{
+    "name": "RaizEspinas",
+    "title": "Raiz de espinas",
+    "arena": 1,
+    "info": "Genera un muro de espinas para entrener a las tropas del contrincante y a la vez hacerles da\u00f1o",
+    "joke": "llevo 10 años jugando minecraft y por fin le encontre una utilidad a esa cosa",
+    "tipo": 0,
+    "price": 4,
+    "level": 14,
+    "props": {
+        "life": 1250,
+        "atk": 56,
+        "obj": 0,
+        "time_atk": 2.0,
+        "tipo": 0,
+        "distance": 0.0,
+        "time_life": 62.0
+    }
+}

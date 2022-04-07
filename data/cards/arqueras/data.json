@@ -1,0 +1,20 @@
+{
+    "name": "arqueras",
+    "title": "Arqueras",
+    "arena": 9,
+    "info": "defensas que puedes usar de cebo, si la sabes posicionar te seran de gran ayuda",
+    "joke": "puto el que lo lea xd",
+    "tipo": 0,
+    "price": 2,
+    "level": 14,
+    "props": {
+        "life": 230,
+        "atk": 110,
+        "obj": 2,
+        "time_atk": 2.1,
+        "tipo": 0,
+        "fast": 2,
+        "distance": 7.0,
+        "cant": 2
+    }
+}

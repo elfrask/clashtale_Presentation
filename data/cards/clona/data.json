@@ -1,0 +1,18 @@
+{
+    "name": "clona",
+    "title": "Hechizo de clonacion",
+    "arena": 5,
+    "info": "Clona una tropa x2",
+    "joke": "doble cuerpo, doble vida, doble duracion de vida. tiene sentido.",
+    "tipo": 0,
+    "price": 3,
+    "level": 14,
+    "props": {
+        "life": 230,
+        "atk": 130,
+        "tower_atk": 90,
+        "obj": 2,
+        "tipo": 2,
+        "range": 4.8
+    }
+}

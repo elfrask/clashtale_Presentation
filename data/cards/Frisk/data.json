@@ -1,0 +1,19 @@
+{
+    "name": "Frisk",
+    "title": "Frisk",
+    "arena": 1,
+    "info": "Frisk es la septima humana caida al subsuelo y esta llena de determinacion",
+    "joke": "Frisk es la septima humana caida al subsuelo y esta bien pendeja para caer por un agujero bien grande que lo ve cualquiera",
+    "tipo": 0,
+    "price": 4,
+    "level": 14,
+    "props": {
+        "life": 550,
+        "obj": 0,
+        "atk":320,
+        "time_atk":1.2,
+        "fast":2,
+        "tipo":0,
+        "distance":0
+    }
+}

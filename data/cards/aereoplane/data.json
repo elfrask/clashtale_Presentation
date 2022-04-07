@@ -1,0 +1,19 @@
+{
+    "name": "aereoplane",
+    "title": "Aereoplane Tsudere",
+    "arena": 5,
+    "info": "ayudate con refuerzos aereos y lanza bombas en toda la linea",
+    "joke": "LLEGARON LOS RUSOS!!! ESCONDAN SUS PENES!!!",
+    "tipo": 1,
+    "price": 6,
+    "level": 13,
+    "props": {
+        "atk": 230,
+        "tower_atk": 120,
+        "obj": 2,
+        "time_atk": 0.3,
+        "tipo": 2,
+        "fast": 5,
+        "range": 1.5
+    }
+}

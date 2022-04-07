@@ -1,0 +1,20 @@
+{
+    "name": "undyneunding",
+    "title": "Undyne the undying",
+    "arena": 9,
+    "info": "Usa lo poco de determinacion para derrotarte",
+    "joke": "solo queda huir como perra",
+    "tipo": 3,
+    "price": 8,
+    "level": 11,
+    "props": {
+        "life": 1900,
+        "atk": 340,
+        "tower_atk": 300,
+        "obj": 2,
+        "time_atk": 4.5,
+        "tipo": 0,
+        "fast": 2,
+        "distance": 7.0
+    }
+}

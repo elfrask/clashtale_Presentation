@@ -1,0 +1,21 @@
+{
+    "name": "snowballs",
+    "title": "Bolitas de nieve",
+    "arena": 3,
+    "info": "bolitas de nieve para usar de cebo",
+    "joke": "lo mismo que el ejercito pero mas barato",
+    "tipo": 0,
+    "price": 1,
+    "level": 14,
+    "props": {
+        "life": 80,
+        "atk": 50,
+        "tower_atk": 32,
+        "obj": 0,
+        "fast":4,
+        "time_atk": 1.2,
+        "tipo": 0,
+        "distance": 0.0,
+        "cant": 3
+    }
+}

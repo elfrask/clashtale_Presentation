@@ -1,0 +1,21 @@
+{
+    "name": "temmies",
+    "title": "Tropa de Temmies",
+    "arena": 4,
+    "info": "Despliega una tropa de gatos o lo que sea que sea eso",
+    "joke": "Este csm te cobra 1200$ por un dulce y usa el pretexto de \"Es para la universidad\"",
+    "tipo": 0,
+    "price": 5,
+    "level": 14,
+    "props": {
+        "life": 210,
+        "atk": 90,
+        "tower_atk": 40,
+        "obj": 0,
+        "time_atk": 1.2,
+        "tipo": 0,
+        "fast": 4,
+        "distance": 0.0,
+        "cant": 5
+    }
+}

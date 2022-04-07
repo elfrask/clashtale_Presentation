@@ -1,0 +1,17 @@
+{
+    "name": "gen_snowballs",
+    "title": "Generador de nieve",
+    "arena": 3,
+    "info": "Hazte un chef preparando bolas de nieve como pan caliente",
+    "joke": "algo raro pasa ahi adentro :v",
+    "tipo": 1,
+    "price": 3,
+    "level": 13,
+    "props": {
+        "life": 450,
+        "obj": 0,
+        "tipo": 3,
+        "time_life": 80.0,
+        "cant": 25
+    }
+}

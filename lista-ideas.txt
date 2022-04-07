@@ -1,0 +1,303 @@
+UnderClash
+
+=========================================
+
+Arena 1: Arena de entrenamiento
+
+cartas (7):
+
+-Flowey
+-Frisk
+-Roca
+-Raiz de espinas
+-Descarga
+-tropa de girasoles
+-tropa de arañas
+
+=========================================
+
+Arena 2: Las Ruinas
+
+cartas (7):
+
+-froggits
+-whimsuns
+-loox
+-moldsmal
+-napstablook
+-vegetoid
+-lluvia de flechas
+
+=========================================
+
+Arena 3: Snowdin
+
+cartas (11):
+
+-Papyrus
+-pareja canina
+-Lomito caballero (Greater Dog)
+-Bola de nieve
+-Bolitas de nieve
+-ejercito de bolitas de nieve
+-monta ciervos
+-trio de perros
+-generador de nieve
+-jerry
+-ice cap
+
+=========================================
+
+Arena 4: Waterfall
+
+cartas (9):
+
+-Whoshua
+-Aaron
+-tropa de temmies
+-lanza chorros
+-Undyne
+-moldbygg
+-cañon
+-golem de agua
+-mad dummyn
+
+=========================================
+
+Arena 5: Hotland
+
+cartas (9):
+
+-Bola de fuego
+-Ejercito igeneo
+-Aereoplane
+-Vulkin
+-lanza fuego
+-pyrope
+-Guardias de guerra
+-rocas igneas
+-generador de rocas
+
+=========================================
+
+Arena 6: Laboratorio
+
+cartas (4):
+
+-amalgama
+-dispensador de acido
+-Camilla de hospital
+-hechizo de clonacion
+-veneno
+
+=========================================
+
+Arena 7: Hotel
+
+cartas (8):
+
+-Golem de piedra
+-Chilldrake
+-Destello
+-Mettaton
+-Orda de whimsuns
+-Astigmatism
+-Froggits de elite
+-Muffet
+
+=========================================
+
+Arena 8: Core
+
+cartas (7):
+
+-Torre tesla
+-Hechizo de rayo
+-Mega whimsuns
+-Mettaton ex
+-Torre lacer
+-Golem Hierro
+-madjick
+
+=========================================
+
+Arena 9: La capital
+
+cartas (8):
+
+-Guardias reales
+-Paquete real
+-Caballero
+-Undyne the undinig
+-Red
+-Arqueras
+-Mosqueteros
+-Verdugo
+
+=========================================
+
+Arena 10: Palacio real
+
+cartas (7):
+
+-Chara
+-Asriel
+-Rey Asgore
+-Toriel
+-Generador de almas
+-Espejo
+-Sans
+
+=========================================
+
+Arena 11: Campo dorado
+
+cartas (7):
+
+-Hechizo de fuego (valentia)
+-Hechizo de curacion (amabilidad)
+-Hechizo de furia (perseverancia)
+-Hechizo de hielo (paciencia)
+-Hechizo de invocacion (dignidad)
+-Hechizo de control (justicia)
+-Hechizo de invocacion (determinacion)
+
+=========================================
+
+Arena 12: Pueblo comunitario
+
+cartas (8):
+
+-Tronco
+-ejercito de esqueleto
+-cementerio
+-leñador
+-casa del arbol
+-barril de froggits
+-Kriss
+-Susie
+
+=========================================
+
+Arena 13: Ciudad
+
+cartas (7):
+
+-Carro
+-Tanque belico
+-Helipcoptero armado
+-Betty noire
+-hechizo de odio
+-Mettaton neo
+-Cohete
+-Chara XTALE
+
+=========================================
+
+Arena 14: Mundo Oscuro
+
+cartas (7):
+
+-Lancer
+-fuegos artificiales
+-Guardian Oscuro
+-Rey Oscuro
+-Ralsei
+-Torre diamante
+-Lanza picas
+
+=========================================
+
+Arena 15: Mundo Cibernetico
+
+cartas (7):
+
+-Espiritu electrico
+-maquina tesla
+-Rompe muros
+-Barril de esqueletos
+-Lobos electricos
+-aspecto tesla
+-hechizo de lag
+
+=========================================
+
+Arena 16: Multiverso 1 - Bosque magico
+
+cartas (6):
+
+-Blueberry
+-barril de duendes
+-pandora
+-Horror Sans
+-Duende Forzudo
+-ballesta
+
+=========================================
+
+Arena 17: Multiverso 2 - Barco volador
+
+cartas (7):
+
+-tornado
+-dragon de fuego
+-cazador
+-Marinero
+-Barril de piratas
+-dust Sans
+-swap!Frisk
+
+=========================================
+
+Arena 18: Multiverso 3 - Risgo del trombo
+
+cartas (7):
+
+-Globo bombardero
+-Golem de hierro
+-swap!Chara
+-Fell!Papyrus
+-Chara storyshift
+-Asriel storyshift
+-Aguila de arquilleria
+
+=========================================
+
+Arena 19: Multiverso 4 - valle de nubes
+
+cartas (5):
+
+-Bruja
+-lanza granadas
+-hechizo de clonacion triple
+-ejercito de aves
+-sopla vietos
+
+
+=========================================
+
+Arena 19: Multiverso 5 - Festival de gracia
+
+cartas (5):
+
+-Bruja oscura
+-Horror Papyrus
+-trio de charas
+-Asriel modo dios
+-Flowey final
+
+=========================================
+
+Arena Legendaria
+
+cartas (0):
+
+=========================================
+
+
+Ligas 1 - 10
+
+
+Campeones:
+
+Asriel modo dios, pandora

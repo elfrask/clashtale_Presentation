@@ -1,0 +1,22 @@
+{
+    "name": "realpack",
+    "title": "Paquete real",
+    "arena": 9,
+    "info": "Tira una caja con un guardia real adentro",
+    "joke": "Venezolano pasando por trocha sin pasaporte",
+    "tipo": 1,
+    "price": 3,
+    "level": 13,
+    "props": {
+        "life": 560,
+        "atk": 210,
+        "tower_atk": 180,
+        "especial_atk": 340,
+        "obj": 0,
+        "time_atk": 1.8,
+        "tipo": 2,
+        "fast": 4,
+        "range": 3.1,
+        "distance": 0.0
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "name": "mettaton",
+    "title": "Mettaton",
+    "arena": 7,
+    "info": "Maquina metalica que es protagonista de un show de tv",
+    "joke": "es una caja con una rueda ",
+    "tipo": 1,
+    "price": 4,
+    "level": 13,
+    "props": {
+        "life": 780,
+        "atk": 340,
+        "tower_atk": 180,
+        "obj": 0,
+        "time_atk": 4.3,
+        "tipo": 0,
+        "fast": 3,
+        "distance": 6.0,
+        "stun": 1.2
+    }
+}

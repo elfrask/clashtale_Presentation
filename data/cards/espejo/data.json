@@ -1,0 +1,14 @@
+{
+    "name": "espejo",
+    "title": "Espejo",
+    "arena": 10,
+    "info": "Clona totalmente una carta en ciclo",
+    "joke": "mandalo con el morocho a comprar pan",
+    "tipo": 2,
+    "price": "?",
+    "level": 12,
+    "props": {
+        "obj": 2,
+        "tipo": 2
+    }
+}

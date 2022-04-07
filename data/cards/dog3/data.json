@@ -1,0 +1,20 @@
+{
+    "name": "dog3",
+    "title": "Trio de perros",
+    "arena": 3,
+    "info": "Lleva a batalla a tres caninos que puedan defender",
+    "joke": "cuidado y te meten su espada",
+    "tipo": 0,
+    "price": 4,
+    "level": 14,
+    "props": {
+        "life": 400,
+        "atk": 90,
+        "obj": 0,
+        "time_atk": 1.7,
+        "tipo": 0,
+        "fast":4,
+        "distance": 0.0,
+        "cant": 3
+    }
+}

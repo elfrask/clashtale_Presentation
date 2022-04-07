@@ -1,0 +1,17 @@
+{
+    "name": "flechas",
+    "title": "Lluvia de flechas",
+    "arena": 2,
+    "info": "Lanza flechas a tu contrincante y a sus tropas",
+    "info": "Lanza balas de indios para destruir a esos mmgvos que se metieron en tu patio",
+    "tipo": 0,
+    "price": 3,
+    "level": 14,
+    "props": {
+        "atk": 210,
+        "tower_atk":109,
+        "obj": 2,
+        "tipo": 2,
+        "range": 7.0
+    }
+}

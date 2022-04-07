@@ -1,0 +1,21 @@
+{
+    "name": "verdugo",
+    "title": "Verdugo",
+    "arena": 9,
+    "info": "puede usar su harcha como boomerang cool",
+    "joke": "cortarle la cabeza a los setenciados es su paci\u00f3n",
+    "tipo": 2,
+    "price": 5,
+    "level": 12,
+    "props": {
+        "life": 400,
+        "atk": 120,
+        "tower_atk": 100,
+        "obj": 2,
+        "time_atk": 3.4,
+        "tipo": 0,
+        "fast": 3,
+        "range": 2.0,
+        "distance": 6.0
+    }
+}

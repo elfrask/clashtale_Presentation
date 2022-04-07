@@ -1,0 +1,20 @@
+{
+    "name": "mega_whimsun",
+    "title": "Mega Whimsun",
+    "arena": 8,
+    "info": "una carta con un fuerte ataque aereo y con mas vida que sus versiones normales",
+    "joke": "Nerfeen al minero",
+    "tipo": 1,
+    "price": 3,
+    "level": 13,
+    "props": {
+        "life": 600,
+        "atk": 230,
+        "tower_atk": 220,
+        "obj": 2,
+        "time_atk": 2.2,
+        "tipo": 1,
+        "fast": 2,
+        "distance": 3.0
+    }
+}

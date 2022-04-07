@@ -1,0 +1,20 @@
+{
+    "name": "camilla",
+    "title": "Camilla de hospital",
+    "arena": 6,
+    "info": "Lanza una camilla de hospital que llegara hasta el extremo, muro o estructura que lo detenga",
+    "joke": "Abro inauguracion del concurso de chistes de camillas tomale foto a esta carta y publicala junto a un chiste que se te ocurra",
+    "tipo": 3,
+    "price": 3,
+    "level": 11,
+    "props": {
+        "atk": 230,
+        "tower_atk": 90,
+        "obj": 0,
+        "tipo": 2,
+        "fast": 5,
+        "range": 4.0,
+        "distance": 10.2,
+        "time_life": 4.3
+    }
+}
