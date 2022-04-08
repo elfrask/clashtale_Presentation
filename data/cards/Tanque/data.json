@@ -1,0 +1,19 @@
+{
+    "name": "Tanque",
+    "title": "Tanque belico",
+    "arena": 13,
+    "info": "un tanque de guerra con mucha resistencia y puede atacar las torres desde buena distancia",
+    "joke": "gigante noble pero de metal y mas ruso",
+    "tipo": 0,
+    "price": 6,
+    "level": 14,
+    "props": {
+        "life": 1800,
+        "atk": 350,
+        "obj": 3,
+        "time_atk": 3.5,
+        "tipo": 0,
+        "fast": 1,
+        "distance": 7.0
+    }
+}

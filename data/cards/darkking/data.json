@@ -1,0 +1,21 @@
+{
+    "name": "darkking",
+    "title": "Rey oscuro",
+    "arena": 14,
+    "info": "Rey oscuro listo para usar su arma en forma de pica para destruirte",
+    "joke": "picas x2",
+    "tipo": 2,
+    "price": 5,
+    "level": 12,
+    "props": {
+        "life": 800,
+        "atk": 340,
+        "tower_atk": 200,
+        "obj": 0,
+        "time_atk": 2.1,
+        "tipo": 0,
+        "fast": 2,
+        "range": 2.0,
+        "distance": 0.0
+    }
+}

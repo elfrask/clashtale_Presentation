@@ -1,0 +1,21 @@
+{
+    "name": "cortatroncos",
+    "title": "Le\u00f1ador",
+    "arena": 12,
+    "info": "invoca a un le\u00f1ador que al morir deja caer su botella de hechizo de furia",
+    "joke": "mucha bebida por hoy",
+    "tipo": 3,
+    "price": 4,
+    "level": 11,
+    "props": {
+        "life": 450,
+        "atk": 200,
+        "tower_atk": 150,
+        "obj": 0,
+        "time_atk": 0.7,
+        "tipo": 0,
+        "fast": 4,
+        "distance": 0.0,
+        "time_life": 4.5
+    }
+}

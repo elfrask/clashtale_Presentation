@@ -1,0 +1,19 @@
+{
+    "name": "Lancer",
+    "title": "Lancer",
+    "arena": 14,
+    "info": "lanza picas a sus oponentes aereos y terrestres",
+    "joke": "gordo mamon",
+    "tipo": 1,
+    "price": 3,
+    "level": 13,
+    "props": {
+        "life": 230,
+        "atk": 200,
+        "obj": 2,
+        "time_atk": 1.0,
+        "tipo": 0,
+        "fast": 4,
+        "distance": 7.0
+    }
+}

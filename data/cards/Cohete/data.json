@@ -1,0 +1,18 @@
+{
+    "name": "Cohete",
+    "title": "Cohete",
+    "arena": 13,
+    "info": "Lanza un cogete a cualquier parte de la arena",
+    "joke": "Activa el modo ruso y ponte a bailar mientras bailas sobre tus enemigos Sovyet marsi - Moscow russia march",
+    "tipo": 1,
+    "price": 6,
+    "level": 13,
+    "props": {
+        "atk": 890,
+        "tower_atk": 640,
+        "obj": 2,
+        "tipo": 2,
+        "range":3,
+        "distance": 0.0
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "name": "queen",
+    "title": "Queen lmao",
+    "arena": 15,
+    "info": "Reina del ciberworld",
+    "joke": "mas sexualizada que toriel puede que termine",
+    "tipo": 3,
+    "price": 4,
+    "level": 11,
+    "props": {
+        "life": 650,
+        "atk": 300,
+        "tower_atk": 120,
+        "obj": 2,
+        "time_atk": 2.5,
+        "tipo": 0,
+        "fast": 2,
+        "distance": 0.0,
+        "stun": 0.4
+    }
+}

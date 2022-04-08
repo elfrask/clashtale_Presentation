@@ -1,0 +1,20 @@
+{
+    "name": "kriss",
+    "title": "Kriss",
+    "arena": 12,
+    "info": "Invoca a un caballero noble pero vacio por su interior",
+    "joke": "este wey no tiene personalidad",
+    "tipo": 1,
+    "price": 4,
+    "level": 13,
+    "props": {
+        "life": 560,
+        "atk": 180,
+        "tower_atk": 140,
+        "obj": 0,
+        "time_atk": 1.8,
+        "tipo": 0,
+        "fast": 2,
+        "distance": 0.0
+    }
+}

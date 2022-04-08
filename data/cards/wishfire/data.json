@@ -1,0 +1,19 @@
+{
+    "name": "wishfire",
+    "title": "Hechizo de Fuego",
+    "arena": 11,
+    "info": "Tira un hechizo que encienda en llamas una zona en concreta",
+    "joke": "esta carta puede incendiar piscinas",
+    "tipo": 2,
+    "price": 4,
+    "level": 12,
+    "props": {
+        "atk": 220,
+        "tower_atk": 100,
+        "obj": 0,
+        "time_atk": 1.0,
+        "tipo": 2,
+        "range": 5.0,
+        "time_life": 3.0
+    }
+}

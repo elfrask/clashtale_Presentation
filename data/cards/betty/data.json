@@ -1,0 +1,21 @@
+{
+    "name": "betty",
+    "title": "Betty Noire",
+    "arena": 13,
+    "info": "Lleva a una chica de pelo rosa pero malas intenciones a batalla mientras se alimenta de sus oponentes",
+    "joke": "Betty x CharaXtale es mas sano que el sanscest",
+    "tipo": 3,
+    "price": 5,
+    "level": 11,
+    "props": {
+        "life": 450,
+        "atk": 230,
+        "cura":20,
+        "tower_atk": 100,
+        "obj": 2,
+        "time_atk": 1.7,
+        "tipo": 0,
+        "fast": 3,
+        "distance": 5.0
+    }
+}

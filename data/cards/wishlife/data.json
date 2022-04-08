@@ -1,0 +1,18 @@
+{
+    "name": "wishlife",
+    "title": "Hechizo de Curacion",
+    "arena": 11,
+    "info": "Tira un hechizo que cure a las tropas",
+    "joke": "esta carta puede revivir un chat muerto",
+    "tipo": 2,
+    "price": 6,
+    "level": 12,
+    "props": {
+        "obj": 2,
+        "cura":13,
+        "time_atk": 0.1,
+        "tipo": 2,
+        "range": 5.0,
+        "time_life": 4.5
+    }
+}

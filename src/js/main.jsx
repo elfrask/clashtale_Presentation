@@ -181,6 +181,45 @@ class InfoCard extends React.Component {
     }
 };
 
+class InfoArena extends React.Component {
+    render() {
+
+        return(
+            <div style={{"width":"100%"}}>
+                <div className="wood_base medio">
+                    <h1>
+                        Arena {this.props.arena}
+                    </h1>
+                </div>
+                <div className="wood_base medio">
+                    {this.props.title}
+                </div>
+                <div className="arena_img" style={{
+                    "backgroundImage":`url('${this.props.img}')`
+                }}></div>
+                <div className="wood_base medio">
+                    Cartas de la arena
+                </div>
+                <div className="wood_bg">
+                    <div className="ord_e">
+                        {this.props.cards.map(x=>{
+
+                            return(printcard(x, () => {
+                                showcard(x)
+                            }))
+
+                        })}
+                    </div>
+                </div>
+                <div className="wood_base medio">
+                    
+                </div>
+                {gen_Vspace(20, "dodgerblue")}
+            </div>
+        )
+    }
+}
+
 function gen_Vspace(px, color) {
     return(
         <div style={{
@@ -239,7 +278,8 @@ let nombre_props = {
     cant: "Cantidad de tropas",
     tower_atk: "Daño a torre",
     especial_atk: "Ataque especial",
-    fast:"Velocidad"
+    fast:"Velocidad",
+    cura:"Curacion"
 }
 
 let process_propertys = {
@@ -247,7 +287,7 @@ let process_propertys = {
     time_life:(e) => (e+ " segundos"),
     time_atk:(e) => (e+ " segundos"),
     stun:(e) => (e+ " segundos"),
-    range:pass, life:pass, atk:pass, cant:pass, tower_atk:pass,
+    range:pass, life:pass, atk:pass, cant:pass, tower_atk:pass, cura:pass,
     especial_atk:pass,
     obj:(e) => {
         let tropa = tipo_obj[e];
@@ -335,9 +375,54 @@ function printcard(i, click, className) {
     )
 }
 
+let modos_ord = ["Nombre codigo", "arena", "almas", "calidad"];
+
+function gen_ord_funcion(n, options) {
+    return (e=[]) => {
+        let pre_salida = range(0, options).map(x=>([]));
+        let salida = [];
+
+        e.forEach(x=>{
+            if (typeof(x.data[n]) !== "number") {
+                return null
+            }
+            pre_salida[x.data[n]].push(x)
+        });
+
+
+        pre_salida.forEach((x=[])=>{
+            x.forEach(y=>{
+                salida.push(y)
+            })
+        })
+
+        return salida
+    }
+}
+
+let modos_ord_code = [
+    pass, // nombre codigo
+    gen_ord_funcion("arena", 20), // arena
+    (e=[]) => { // Elixir
+
+        let func = gen_ord_funcion("price", 10)
+        let cartas = func(e);
+        console.log(cartas, e.espejo)
+        cartas.push(e.espejo);
+        return cartas
+    },
+    gen_ord_funcion("tipo", 4) //calidad
+    
+]
+
 
 class Body extends React.Component {
+    state={
+        modo_ord:0
+    }
     render() {
+
+        let cardp = genlink(modos_ord_code[this.state.modo_ord], pass)(cards)
 
         return(
             <div className="fill medioH">
@@ -362,7 +447,61 @@ class Body extends React.Component {
                         </p>
                     </center>
 
+                    <Messager className="center text-center">
+                        Antes de empezar aviso que las imagenes
+                        mostradas en este blog unicamente estan para
+                        ilustrar la idea que se quiere trasmitir.
+                    </Messager>
+
+
                     {gen_Vspace(200)}
+
+                    <Title>
+                        Arenas
+                    </Title>
+                    {gen_Vspace(100)}
+                    <center>
+                        <p className="box-text">
+                            Total de arenas: {arenas.length}
+                        </p>
+                    </center>
+
+                    {gen_Vspace(50)}
+
+                    <div className="ord_e" id="cards">        
+                        
+                        {arenas.map((x, i)=>{
+                            let cartas = [];
+                            let arena = 1 + i;
+                            cards.forEach(y => {
+                                if (y.data["arena"] == arena) {
+                                    cartas.push(y)
+                                }
+                            })
+                            
+                            return(
+                                <InfoArena
+                                
+                                cards={cartas}
+                                img={`/src/img/arenas/${x.img}`}
+                                title={x.title}
+                                arena={arena}
+                                >
+
+                                </InfoArena>
+                            )
+                        })}
+                    </div>
+                    
+                    {gen_Vspace(200)}
+
+
+
+
+
+
+
+
 
                     <Title>
                         Cartas
@@ -372,13 +511,20 @@ class Body extends React.Component {
 
                     <center>
                         <p className="box-text">
-                            Total de cartas: {cards.length}
+                            Total de cartas: {cardp.length}
                         </p>
                     </center>
 
+                    <center>
+                        Ordenar por:
+                        <div className="bt" onClick={() => {this.setState({modo_ord:(this.state.modo_ord+1)%4})}}>
+                            {modos_ord[this.state.modo_ord]}
+                        </div>
+                    </center>
 
-                    <div className="ord_e" id="cards">
-                        {cards.map((x, i)=>{
+                    <div className="ord_e" id="cards">        
+                        
+                        {cardp.map((x, i)=>{
 
                             return(printcard(x, () => {
                                 showcard(x)
@@ -403,11 +549,11 @@ function main() {
     getcards().then(x=>{
         cards = x;
         ReactDOM.render(<Body></Body>, go("_app"), () => {
-            showi(
+            /*showi(
                 <h1 className="dark">
                     Hola! Bienvenido!
                 </h1>
-            )
+            )*/
         })
 
     }).catch(x=>{main()})

@@ -1,0 +1,18 @@
+{
+    "name": "wishinvocacion",
+    "title": "Hechizo de invocacion",
+    "arena": 11,
+    "info": "Tira un hechizo genere tropas entre froggits y whimsuns",
+    "joke": "esta carta puede invocar hasta tu sugar mommy",
+    "tipo": 3,
+    "price": 5,
+    "level": 11,
+    "props": {
+
+        "time_atk": 1.0,
+        "tipo": 2,
+        "range": 5.0,
+        "time_life": 20.0,
+        "cant":20
+    }
+}

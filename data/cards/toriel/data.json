@@ -9,6 +9,7 @@
     "level": 11,
     "props": {
         "life": 450,
+        "cura": 78,
         "obj": 2,
         "time_atk": 2.1,
         "tipo": 0,

@@ -1,0 +1,21 @@
+{
+    "name": "esqueletos_ejercito",
+    "title": "Ejercito de esqueletos",
+    "arena": 12,
+    "info": "lanza un ejercito de esqueletos a la batalla",
+    "joke": "ovbiamente no fue robado de clash royale",
+    "tipo": 2,
+    "price": 3,
+    "level": 12,
+    "props": {
+        "life": 120,
+        "atk": 90,
+        "tower_atk": 63,
+        "obj": 0,
+        "time_atk": 1.2,
+        "tipo": 0,
+        "fast": 4,
+        "distance": 0.0,
+        "cant": 15
+    }
+}

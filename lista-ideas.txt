@@ -160,20 +160,17 @@ cartas (7):
 -Hechizo de hielo (paciencia)
 -Hechizo de invocacion (dignidad)
 -Hechizo de control (justicia)
--Hechizo de invocacion (determinacion)
+-Hechizo de lava (determinacion)
 
 =========================================
 
 Arena 12: Pueblo comunitario
 
-cartas (8):
+cartas (5):
 
 -Tronco
 -ejercito de esqueleto
--cementerio
 -leñador
--casa del arbol
--barril de froggits
 -Kriss
 -Susie
 
@@ -181,14 +178,10 @@ cartas (8):
 
 Arena 13: Ciudad
 
-cartas (7):
+cartas (4):
 
--Carro
 -Tanque belico
--Helipcoptero armado
 -Betty noire
--hechizo de odio
--Mettaton neo
 -Cohete
 -Chara XTALE
 
@@ -196,29 +189,24 @@ cartas (7):
 
 Arena 14: Mundo Oscuro
 
-cartas (7):
+cartas (5):
 
 -Lancer
 -fuegos artificiales
 -Guardian Oscuro
 -Rey Oscuro
 -Ralsei
--Torre diamante
--Lanza picas
 
 =========================================
 
 Arena 15: Mundo Cibernetico
 
-cartas (7):
+cartas (3):
 
 -Espiritu electrico
 -maquina tesla
--Rompe muros
--Barril de esqueletos
--Lobos electricos
--aspecto tesla
--hechizo de lag
+-queen
+
 
 =========================================
 

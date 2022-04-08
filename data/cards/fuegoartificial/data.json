@@ -1,0 +1,20 @@
+{
+    "name": "fuegoartificial",
+    "title": "Fuegos artificiales",
+    "arena": 14,
+    "info": "defensas especialmente para tropas aereas",
+    "joke": "un dolor de cabeza si tu mazo se enfoca en puras aereas",
+    "tipo": 0,
+    "price": 5,
+    "level": 14,
+    "props": {
+        "life": 500,
+        "atk": 340,
+        "obj": 1,
+        "time_atk": 2.0,
+        "tipo": 3,
+        "range": 2.0,
+        "distance": 7.0,
+        "time_life": 40.0
+    }
+}

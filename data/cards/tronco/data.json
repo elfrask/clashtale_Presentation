@@ -1,0 +1,21 @@
+{
+    "name": "tronco",
+    "title": "Tronco",
+    "arena": 12,
+    "info": "Tira un tronco que destruya todo a su paso",
+    "joke": "nerfeen al tronco!",
+    "tipo": 3,
+    "price": 2,
+    "level": 11,
+    "props": {
+        "atk": 230,
+        "tower_atk": 115,
+        "obj": 0,
+        "time_atk": 4.5,
+        "tipo": 2,
+        "fast": 5,
+        "range": 4.0,
+        "distance": 11.0,
+        "time_life": 4.5
+    }
+}

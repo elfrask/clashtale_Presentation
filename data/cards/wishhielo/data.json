@@ -1,0 +1,19 @@
+{
+    "name": "wishhielo",
+    "title": "Hechizo de Hielo",
+    "arena": 11,
+    "info": "Aturde a las tropas con un largo hechizo de hielo",
+    "joke": "usa esta carta para congelar tu carne",
+    "tipo": 2,
+    "price": 4,
+    "level": 12,
+    "props": {
+        "atk": 220,
+        "tower_atk": 140,
+        "obj": 2,
+        "tipo": 2,
+        "range": 4.0,
+        "time_life": 3.0,
+        "stun":4.5
+    }
+}

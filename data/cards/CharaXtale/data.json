@@ -1,0 +1,20 @@
+{
+    "name": "CharaXtale",
+    "title": "Chara Xtale",
+    "arena": 13,
+    "info": "Chara cool mode",
+    "joke": "no tengo ideas para este personaje xd",
+    "tipo": 2,
+    "price": 4,
+    "level": 12,
+    "props": {
+        "life": 600,
+        "atk": 250,
+        "tower_atk": 100,
+        "obj": 0,
+        "time_atk": 0.5,
+        "tipo": 0,
+        "fast": 3,
+        "distance": 0.0
+    }
+}

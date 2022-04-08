@@ -1,0 +1,17 @@
+{
+    "name": "wishfuria",
+    "title": "Hechizo de Furia",
+    "arena": 11,
+    "info": "Esta carta aumenta la fuerza y vida por x2 de tus cartas",
+    "joke": "inyectales esteroides con esta carta",
+    "tipo": 2,
+    "price": 2,
+    "level": 12,
+    "props": {
+
+        "obj": 2,
+        "tipo": 2,
+        "range": 5.0,
+        "time_life": 5.0
+    }
+}

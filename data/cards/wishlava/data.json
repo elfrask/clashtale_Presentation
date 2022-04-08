@@ -1,0 +1,19 @@
+{
+    "name": "wishlava",
+    "title": "Hechizo de lava",
+    "arena": 11,
+    "info": "Tira lava sobre las tropas enemigas y estructuras que te molestan",
+    "joke": "esta carta deberian de agregarla a las cosas mas op por su daño",
+    "tipo": 3,
+    "price": 6,
+    "level": 11,
+    "props": {
+        "atk": 450,
+        "tower_atk": 210,
+        "obj": 0,
+        "time_atk": 1.0,
+        "tipo": 2,
+        "range": 5.0,
+        "time_life": 3.0
+    }
+}

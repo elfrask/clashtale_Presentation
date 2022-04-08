@@ -1,0 +1,21 @@
+{
+    "name": "Susie",
+    "title": "Susie",
+    "arena": 12,
+    "info": "Lleva a un especie de reptil a batallar con su arma",
+    "joke": "la valquiria pero de deltarune",
+    "tipo": 1,
+    "price": 4,
+    "level": 13,
+    "props": {
+        "life": 1200,
+        "atk": 230,
+        "tower_atk": 180,
+        "obj": 0,
+        "time_atk": 3.4,
+        "tipo": 0,
+        "fast": 2,
+        "range": 2.0,
+        "distance": 0.0
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "name": "chispitas",
+    "title": "Chispitas",
+    "arena": 15,
+    "info": "una maquina que lanza rayos a las tropas y hace bastante da\u00f1o",
+    "joke": "nerfeen al chispitas que esta bastante roto!",
+    "tipo": 2,
+    "price": 6,
+    "level": 12,
+    "props": {
+        "life": 600,
+        "atk": 650,
+        "tower_atk": 490,
+        "obj": 0,
+        "time_atk": 5.0,
+        "tipo": 0,
+        "fast": 2,
+        "range": 3.0,
+        "distance": 7.0,
+        "stun": 1.0
+    }
+}

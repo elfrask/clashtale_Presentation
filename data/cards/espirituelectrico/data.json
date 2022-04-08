@@ -1,0 +1,21 @@
+{
+    "name": "espirituelectrico",
+    "title": "Espiritu electrico",
+    "arena": 15,
+    "info": "un peque\u00f1o cebo que puede eliminar tod0 un ejercito de esqueletos",
+    "joke": "este csm es quien hackeo la nasa con solo tirarse al suelo",
+    "tipo": 0,
+    "price": 1,
+    "level": 14,
+    "props": {
+        "life": 230,
+        "atk": 300,
+        "tower_atk": 120,
+        "obj": 2,
+        "time_atk": 0.3,
+        "tipo": 0,
+        "fast": 5,
+        "distance": 3.0,
+        "stun": 0.3
+    }
+}

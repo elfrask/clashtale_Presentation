@@ -1,0 +1,22 @@
+{
+    "name": "darkguards",
+    "title": "Guardianes oscuros",
+    "arena": 14,
+    "info": "Lanza guardianes oscuros con mazos en vez de espadas",
+    "joke": "Importados desde africa",
+    "tipo": 2,
+    "price": 4,
+    "level": 12,
+    "props": {
+        "life": 340,
+        "atk": 120,
+        "tower_atk": 100,
+        "obj": 0,
+        "time_atk": 1.4,
+        "tipo": 0,
+        "fast": 4,
+        "range": 1.5,
+        "distance": 0.0,
+        "cant": 3
+    }
+}
